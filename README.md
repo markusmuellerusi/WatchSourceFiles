@@ -2,6 +2,11 @@
 
 Überwacht ein Verzeichnis inkl. Unterverzeichnissen auf Erstellung und Änderung von mehreren Dateitypen
 
+Ich übernehme keine Gewähr oder Garantie für die Aktualität, Richtigkeit, Vollständigkeit und evtlle. Schäden.
+Der Code darf frei übernommen und verändert werden.
+
+Verwendet .Net Framework 4.8
+
 Das Programm muss als Administrator ausgeführt werden,
 um den Zugriff auf das zu überwachende Verzeichnis zu gewährleisten.
 
