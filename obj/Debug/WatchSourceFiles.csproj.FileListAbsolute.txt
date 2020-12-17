@@ -1,0 +1,6 @@
+C:\Users\mamueller\source\repos\WatchSourceFiles\bin\debug\WatchSourceFiles.exe.config
+C:\Users\mamueller\source\repos\WatchSourceFiles\bin\debug\WatchSourceFiles.exe
+C:\Users\mamueller\source\repos\WatchSourceFiles\bin\debug\WatchSourceFiles.pdb
+C:\Users\mamueller\source\repos\WatchSourceFiles\obj\Debug\WatchSourceFiles.csproj.CoreCompileInputs.cache
+C:\Users\mamueller\source\repos\WatchSourceFiles\obj\Debug\WatchSourceFiles.exe
+C:\Users\mamueller\source\repos\WatchSourceFiles\obj\Debug\WatchSourceFiles.pdb
